@@ -22,4 +22,4 @@
 
 score1 : 원본
 score2 : 영어로 된 prompt사용시
-
+score3 : 
